@@ -1,0 +1,94 @@
+.hero__float {
+
+    position: fixed;
+    width: 60px;
+    height: 300px;
+    top: 50%;
+    bottom: 50%;
+    left: 0px;
+    background-color: #7fad39;
+    color: #FFF;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    -webkit-transform: translate(0%, -50%);
+    -moz-transform: translate(0%, -50%);
+    -ms-transform: translate(0%, -50%);
+    -o-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
+
+}
+
+.hero__float__box {
+
+    margin: 0 0 0 0;
+
+}
+
+.hero__float__button {
+
+    margin: auto;
+    padding: 20px;
+    width: 60px;
+    height: 60px;
+    text-align:center;
+
+}
+
+.hero__float__icon {
+
+    color: #FFF;
+
+}
+
+.hero {
+
+    padding-bottom: 15px;
+}
+
+.hero__search__box {
+
+    padding: 15px 0px 0px 0px;
+
+}
+
+.hero__search__form {
+
+    margin-right: auto;
+
+}
+
+.hero__search__phone {
+
+    margin-right: 0px;
+
+}
+
+.hero__neck__banner {
+
+    margin-right: auto;
+
+}
+
+.hero__neck__topup {
+
+    padding: 0 15px 0 15px;
+    width: auto;
+    max-width: 281px;
+    height: 431px;
+    border: solid 1px grey;
+
+}
+
+.hero__topup__container {
+
+    margin-right: 0;
+    width: 100%;
+    padding: 0 0 0 0;
+
+}
+
+.featured {
+
+    padding-top: 0;
+
+}
