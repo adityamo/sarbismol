@@ -167,7 +167,7 @@ ol {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #7fad39;
+	background: #004D7E;
 	letter-spacing: 2px;
 }
 
@@ -178,7 +178,7 @@ ol {
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 30px 12px;
-	background: #7fad39;
+	background: #004D7E;
 	border: none;
 }
 
@@ -404,7 +404,7 @@ ol {
 }
 
 .header__top__right__auth a i {
-	margin-right: 6px;
+	margin-right: 17px;
 }
 
 .header__logo {
